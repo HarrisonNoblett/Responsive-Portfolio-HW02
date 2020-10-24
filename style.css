@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://images.homedepot-static.com/productImages/8b9fbf4b-a85c-4c62-b309-b4182db8c3ce/svn/walls-republic-wallpaper-rolls-r5676-64_1000.jpg);
+}
+
+.container{
+    background-color: white;
+    margin-top: 50px;
+    width: 100%;
+    float: left;
+    margin-left: 70px;
+}
+
+p{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.img-thumbnail{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+h1{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.row{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.photo {
+    width: 300px;
+    height: auto;
+}
+
